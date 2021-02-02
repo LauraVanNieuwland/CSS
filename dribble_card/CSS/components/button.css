@@ -1,0 +1,16 @@
+.button {
+  display: none;
+  padding: 8px;
+  margin: 5px;
+  background-color: white;
+  border-radius: 3px;
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+}
+
+.button:hover {
+  color: black;
+  display: inline-block;
+
+}

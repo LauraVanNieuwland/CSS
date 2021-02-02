@@ -1,0 +1,10 @@
+/* components */
+@import url(components/avatar.css);
+@import url(components/button.css);
+@import url(components/card.css);
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
